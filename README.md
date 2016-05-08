@@ -1,6 +1,7 @@
 # Sv-Oriental
 Oriental Swedish keyboard:
 with additional letters for romanization of languages with Arabic script  
+Version 1.0  
 
 Latin languages: English, Swedish
 Arabic-script based languages: Arabic, Persian, Urdu, Pushto, Sindhi  
