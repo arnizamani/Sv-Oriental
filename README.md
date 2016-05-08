@@ -3,10 +3,20 @@ Oriental Swedish keyboard:
 with additional letters for romanization of languages with Arabic script  
 Version 1.0  
 
-Latin languages: English, Swedish
-Arabic-script based languages: Arabic, Persian, Urdu, Pushto, Sindhi  
+The additional letters for romanization of the selected languages are based on the romanization schemes created by the Library of Congress. The keyboard layout covers English and Swedish languages, in addition to romanization of Arabic, Persian, Urdu, Sindhi and Pushto.  
 
-If you need the oriental keyboard layout for English keyboard, email me and I will create it.
+The "-" key (hyphen) has been converted to a dead key. Dead keys are used as follows: Pressing the dead key alone will do nothing, pressing some additional key will produce specific output.  
+
+All additional letters to standard Swedish:  
+
+Á á  (already included using the dead key ´)  
+Ā Ī Ū   ā ī ū  (accessed with the dead key -)  
+Ḍ Ḥ Ṛ Ṣ Ṭ Ẓ   ạ ḍ ḥ ṇ ṛ ṣ ṭ ẓ  (accessed with the dead key -)  
+G̲ K̲ S̲ Z̲   g̲ h̲ k̲ n̲ s̲ z̲  (press the corresponding key then - then _)  
+G̈ J̈ g̈ j̈   (press the corresponding key then - then ö)  
+B̤ D̤ T̤ Z̤ b̤ d̤ t̤ z̤  (press the corresponding key then - then :)  
+Ṡ Ż   ṅ ṡ ż  (accessed with the dead key ´)  
+ñ  (already included with the dead key ~)  
 
 Additional letters for Arabic:  
    Source: https://www.loc.gov/catdir/cpso/romanization/arabic.pdf  
@@ -77,11 +87,4 @@ Letters additional to Urdu for romanizing Pashto:
 ṇ (ڼ)  
 ạ (ạy => ـئ, ۓ)  
 
-All additional letters to standard Swedish:  
-Á á  
-Ā Ī Ū   ā ī ū  
-Ḍ Ḥ Ṛ Ṣ Ṭ Ẓ   ạ ḍ ḥ ṇ ṛ ṣ ṭ ẓ  
-G̲ K̲ S̲ Z̲   g̲ h̲ k̲ n̲ s̲ z̲  
-B̤ D̤ G̈ J̈ T̤ Z̤    b̤ d̤ g̈ j̈ t̤ z̤  
-Ṡ Ż   ṅ ṡ ż  
-ñ  
+If you need the oriental keyboard layout for English keyboard, email me and I will create it.
