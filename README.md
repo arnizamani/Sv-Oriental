@@ -1,5 +1,5 @@
 # Sv-Oriental
-Oriental Swedish keyboard:
+Oriental Swedish keyboard:  
 with additional letters for romanization of languages with Arabic script  
 Version 1.0  
 
